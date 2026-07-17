@@ -60,21 +60,6 @@ Summary • Key Points • Concepts • Q&A
 
 ---
 
-## 📂 Repository Structure
-
-```
-AI-Powered-YouTube-Knowledge-Extraction-System-using-n8n
-│
-├── README.md
-├── screenshots/
-│   ├── workflow.png
-│   ├── output.png
-│   └── demo.png
-├── docs/
-│   └── architecture.png
-└── LICENSE
-```
-
 ---
 
 ## 🚀 How It Works
