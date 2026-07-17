@@ -99,17 +99,8 @@ AI-Powered-YouTube-Knowledge-Extraction-System-using-n8n
 > Add your n8n workflow screenshot here.
 
 ```
-screenshots/workflow.png
-```
+<img width="1665" height="732" alt="Screenshot 2026-06-25 202226" src="https://github.com/user-attachments/assets/f99947cb-5bf2-4916-975c-fc8df98efe98" />
 
----
-
-### 📄 AI Generated Output
-
-> Add a screenshot of the generated summary here.
-
-```
-screenshots/output.png
 ```
 
 ---
