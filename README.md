@@ -92,7 +92,7 @@ AI-Powered-YouTube-Knowledge-Extraction-System-using-n8n
 
 ---
 
-## 📷 Screenshots
+## 📷 Screenshot
 
 ### 🔄 Workflow
 
@@ -151,9 +151,6 @@ Contributions are welcome!
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
 
 ---
 
@@ -162,7 +159,7 @@ This project is licensed under the **MIT License**.
 **Vikrant Chaudhary**
 
 - GitHub: https://github.com/Vikrant153
-- LinkedIn: *Add your LinkedIn profile here*
+- LinkedIn: https://www.linkedin.com/in/vikrant-chaudhary-2aab27324/
 
 ---
 
